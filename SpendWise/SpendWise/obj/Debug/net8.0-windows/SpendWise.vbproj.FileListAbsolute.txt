@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\bin\Debug\net8.0-windows\SpendWise.exe
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\bin\Debug\net8.0-windows\SpendWise.deps.json
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\bin\Debug\net8.0-windows\SpendWise.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\bin\Debug\net8.0-windows\SpendWise.dll
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\bin\Debug\net8.0-windows\SpendWise.pdb
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.AssemblyInfo.vb
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.vbproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.dll
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\refint\SpendWise.dll
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.pdb
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\ref\SpendWise.dll
