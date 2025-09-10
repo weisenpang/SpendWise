@@ -12,3 +12,6 @@ C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\
 C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.pdb
 C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\ref\SpendWise.dll
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.LaunchPage.resources
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.vbproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.sourcelink.json
