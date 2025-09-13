@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\incomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\incomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\launchpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\launchpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,30 +51,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IncomeHistoryPage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
-              "RelativeDocumentMoniker": "SpendWise\\IncomeHistoryPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb [Design]",
-              "RelativeToolTip": "SpendWise\\IncomeHistoryPage.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-10T06:28:10.614Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpenseHistoryPage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
-              "RelativeDocumentMoniker": "SpendWise\\ExpenseHistoryPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb [Design]",
-              "RelativeToolTip": "SpendWise\\ExpenseHistoryPage.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-10T06:23:20.269Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ExpensePage.vb [Design]",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\ExpensePage.vb",
@@ -78,6 +58,30 @@
               "RelativeToolTip": "SpendWise\\ExpensePage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-09-10T06:21:47.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
+              "RelativeDocumentMoniker": "SpendWise\\HomePage.vb",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\HomePage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T05:52:31.095Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IncomeHistoryPage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
+              "RelativeDocumentMoniker": "SpendWise\\IncomeHistoryPage.vb",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\IncomeHistoryPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T06:28:10.614Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -95,6 +99,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "LaunchPage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\LaunchPage.vb",
+              "RelativeDocumentMoniker": "SpendWise\\LaunchPage.vb",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\LaunchPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\LaunchPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T06:29:30.031Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpenseHistoryPage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
+              "RelativeDocumentMoniker": "SpendWise\\ExpenseHistoryPage.vb",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\ExpenseHistoryPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-09-10T06:23:20.269Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "BalancePage.vb [Design]",
               "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\BalancePage.vb",
@@ -102,18 +130,6 @@
               "RelativeToolTip": "SpendWise\\BalancePage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-09-10T06:03:38.779Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HomePage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
-              "RelativeDocumentMoniker": "SpendWise\\HomePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb [Design]",
-              "RelativeToolTip": "SpendWise\\HomePage.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-09-10T05:52:31.095Z",
               "EditorCaption": " [Design]"
             }
           ]
