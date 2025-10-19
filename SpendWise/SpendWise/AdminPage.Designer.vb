@@ -22,19 +22,10 @@ Partial Class AdminPage
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        HomepageButton = New Button()
         UserHistoryList = New ListBox()
         UserHistoryLabel = New Label()
+        LogoutButton = New Button()
         SuspendLayout()
-        ' 
-        ' HomepageButton
-        ' 
-        HomepageButton.Location = New Point(617, 400)
-        HomepageButton.Name = "HomepageButton"
-        HomepageButton.Size = New Size(153, 29)
-        HomepageButton.TabIndex = 8
-        HomepageButton.Text = "Back To Homepage"
-        HomepageButton.UseVisualStyleBackColor = True
         ' 
         ' UserHistoryList
         ' 
@@ -53,21 +44,29 @@ Partial Class AdminPage
         UserHistoryLabel.TabIndex = 6
         UserHistoryLabel.Text = "User"
         ' 
+        ' LogoutButton
+        ' 
+        LogoutButton.Location = New Point(12, 12)
+        LogoutButton.Name = "LogoutButton"
+        LogoutButton.Size = New Size(75, 29)
+        LogoutButton.TabIndex = 7
+        LogoutButton.Text = "Logout"
+        LogoutButton.UseVisualStyleBackColor = True
+        ' 
         ' AdminPage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
-        Controls.Add(HomepageButton)
+        Controls.Add(LogoutButton)
         Controls.Add(UserHistoryList)
         Controls.Add(UserHistoryLabel)
         Name = "AdminPage"
-        Text = "AdminPage"
+        Text = "Admin Page"
         ResumeLayout(False)
         PerformLayout()
     End Sub
-
-    Friend WithEvents HomepageButton As Button
     Friend WithEvents UserHistoryList As ListBox
     Friend WithEvents UserHistoryLabel As Label
+    Friend WithEvents LogoutButton As Button
 End Class

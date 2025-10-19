@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("SpendWise"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fac3a2031d79b415d3a2731d4b20d66a6d5809d"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c69df37e5afe90355f48dfe303457d0f7e85a79"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SpendWise"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SpendWise"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

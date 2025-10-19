@@ -7,6 +7,9 @@
     <Compile Update="BalancePage.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CreateAdminAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="ExpenseHistoryPage.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -23,6 +26,12 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="LaunchPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogInPage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUpPage.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

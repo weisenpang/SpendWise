@@ -62,7 +62,7 @@ Partial Class ExpenseHistoryPage
         Controls.Add(ExpenseHistoryList)
         Controls.Add(ExpenseHistoryLabel)
         Name = "ExpenseHistoryPage"
-        Text = "ExpenseHistoryPage"
+        Text = "View your expenses here !"
         ResumeLayout(False)
         PerformLayout()
     End Sub

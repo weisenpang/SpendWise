@@ -62,7 +62,7 @@ Partial Class IncomeHistoryPage
         Controls.Add(IncomeHistoryList)
         Controls.Add(IncomeHistoryLabel)
         Name = "IncomeHistoryPage"
-        Text = "IncomeHistoryPage"
+        Text = "View your income !"
         ResumeLayout(False)
         PerformLayout()
     End Sub

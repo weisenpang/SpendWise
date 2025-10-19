@@ -27,36 +27,38 @@ Partial Class IncomePage
         AddIncomeTextBox = New TextBox()
         AddIncomeButton = New Button()
         HomepageButton = New Button()
+        Label1 = New Label()
+        AddIncomeDescriptionTextBox = New TextBox()
         SuspendLayout()
         ' 
         ' IncomeLabel
         ' 
         IncomeLabel.AutoSize = True
-        IncomeLabel.Location = New Point(391, 78)
+        IncomeLabel.Location = New Point(345, 99)
         IncomeLabel.Name = "IncomeLabel"
-        IncomeLabel.Size = New Size(61, 20)
+        IncomeLabel.Size = New Size(134, 20)
         IncomeLabel.TabIndex = 0
-        IncomeLabel.Text = "Income:"
+        IncomeLabel.Text = "Insert Income Page"
         ' 
         ' AddIncomeLabel
         ' 
         AddIncomeLabel.AutoSize = True
-        AddIncomeLabel.Location = New Point(214, 185)
+        AddIncomeLabel.Location = New Point(219, 151)
         AddIncomeLabel.Name = "AddIncomeLabel"
-        AddIncomeLabel.Size = New Size(180, 20)
+        AddIncomeLabel.Size = New Size(184, 20)
         AddIncomeLabel.TabIndex = 1
-        AddIncomeLabel.Text = "Please Insert Your Income:"
+        AddIncomeLabel.Text = "Please insert your income :"
         ' 
         ' AddIncomeTextBox
         ' 
-        AddIncomeTextBox.Location = New Point(460, 185)
+        AddIncomeTextBox.Location = New Point(429, 148)
         AddIncomeTextBox.Name = "AddIncomeTextBox"
         AddIncomeTextBox.Size = New Size(125, 27)
         AddIncomeTextBox.TabIndex = 2
         ' 
         ' AddIncomeButton
         ' 
-        AddIncomeButton.Location = New Point(236, 267)
+        AddIncomeButton.Location = New Point(248, 259)
         AddIncomeButton.Name = "AddIncomeButton"
         AddIncomeButton.Size = New Size(111, 29)
         AddIncomeButton.TabIndex = 3
@@ -65,25 +67,43 @@ Partial Class IncomePage
         ' 
         ' HomepageButton
         ' 
-        HomepageButton.Location = New Point(428, 267)
+        HomepageButton.Location = New Point(387, 259)
         HomepageButton.Name = "HomepageButton"
         HomepageButton.Size = New Size(181, 29)
         HomepageButton.TabIndex = 4
         HomepageButton.Text = "Go Back To Homepage"
         HomepageButton.UseVisualStyleBackColor = True
         ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.Location = New Point(219, 194)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(186, 20)
+        Label1.TabIndex = 5
+        Label1.Text = "Please enter a description :"
+        ' 
+        ' AddIncomeDescriptionTextBox
+        ' 
+        AddIncomeDescriptionTextBox.Location = New Point(429, 191)
+        AddIncomeDescriptionTextBox.Name = "AddIncomeDescriptionTextBox"
+        AddIncomeDescriptionTextBox.Size = New Size(125, 27)
+        AddIncomeDescriptionTextBox.TabIndex = 6
+        ' 
         ' IncomePage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(AddIncomeDescriptionTextBox)
+        Controls.Add(Label1)
         Controls.Add(HomepageButton)
         Controls.Add(AddIncomeButton)
         Controls.Add(AddIncomeTextBox)
         Controls.Add(AddIncomeLabel)
         Controls.Add(IncomeLabel)
         Name = "IncomePage"
-        Text = "IncomePage"
+        Text = "Insert your income here !"
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -93,4 +113,6 @@ Partial Class IncomePage
     Friend WithEvents AddIncomeTextBox As TextBox
     Friend WithEvents AddIncomeButton As Button
     Friend WithEvents HomepageButton As Button
+    Friend WithEvents Label1 As Label
+    Friend WithEvents AddIncomeDescriptionTextBox As TextBox
 End Class

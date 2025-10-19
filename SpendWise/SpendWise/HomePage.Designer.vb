@@ -22,6 +22,7 @@ Partial Class HomePage
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         BalanceLabel = New Label()
         TotalIncomeLabel = New Label()
         TotalExpenseLabel = New Label()
@@ -30,6 +31,8 @@ Partial Class HomePage
         InsertBalanceButton = New Button()
         AddExpenseButton = New Button()
         ExpenseHistoryButton = New Button()
+        ContextMenuStrip1 = New ContextMenuStrip(components)
+        logOutButton = New Button()
         SuspendLayout()
         ' 
         ' BalanceLabel
@@ -89,27 +92,43 @@ Partial Class HomePage
         ' 
         ' AddExpenseButton
         ' 
-        AddExpenseButton.Location = New Point(572, 243)
+        AddExpenseButton.Location = New Point(553, 243)
         AddExpenseButton.Name = "AddExpenseButton"
-        AddExpenseButton.Size = New Size(111, 29)
+        AddExpenseButton.Size = New Size(145, 29)
         AddExpenseButton.TabIndex = 6
         AddExpenseButton.Text = "Add Expense"
         AddExpenseButton.UseVisualStyleBackColor = True
         ' 
         ' ExpenseHistoryButton
         ' 
-        ExpenseHistoryButton.Location = New Point(581, 326)
+        ExpenseHistoryButton.Location = New Point(553, 310)
         ExpenseHistoryButton.Name = "ExpenseHistoryButton"
-        ExpenseHistoryButton.Size = New Size(94, 29)
+        ExpenseHistoryButton.Size = New Size(145, 29)
         ExpenseHistoryButton.TabIndex = 7
         ExpenseHistoryButton.Text = "Expense History"
         ExpenseHistoryButton.UseVisualStyleBackColor = True
+        ' 
+        ' ContextMenuStrip1
+        ' 
+        ContextMenuStrip1.ImageScalingSize = New Size(20, 20)
+        ContextMenuStrip1.Name = "ContextMenuStrip1"
+        ContextMenuStrip1.Size = New Size(61, 4)
+        ' 
+        ' logOutButton
+        ' 
+        logOutButton.Location = New Point(364, 409)
+        logOutButton.Name = "logOutButton"
+        logOutButton.Size = New Size(94, 29)
+        logOutButton.TabIndex = 10
+        logOutButton.Text = "Log Out"
+        logOutButton.UseVisualStyleBackColor = True
         ' 
         ' HomePage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(logOutButton)
         Controls.Add(ExpenseHistoryButton)
         Controls.Add(AddExpenseButton)
         Controls.Add(InsertBalanceButton)
@@ -132,4 +151,6 @@ Partial Class HomePage
     Friend WithEvents InsertBalanceButton As Button
     Friend WithEvents AddExpenseButton As Button
     Friend WithEvents ExpenseHistoryButton As Button
+    Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
+    Friend WithEvents logOutButton As Button
 End Class

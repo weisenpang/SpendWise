@@ -34,9 +34,9 @@ Partial Class BalancePage
         BalanceLabel.AutoSize = True
         BalanceLabel.Location = New Point(369, 127)
         BalanceLabel.Name = "BalanceLabel"
-        BalanceLabel.Size = New Size(61, 20)
+        BalanceLabel.Size = New Size(97, 20)
         BalanceLabel.TabIndex = 0
-        BalanceLabel.Text = "Balance"
+        BalanceLabel.Text = "Balance Page"
         ' 
         ' AddBalanceLabel
         ' 
@@ -83,7 +83,7 @@ Partial Class BalancePage
         Controls.Add(AddBalanceLabel)
         Controls.Add(BalanceLabel)
         Name = "BalancePage"
-        Text = "BalancePage"
+        Text = "Insert your balance here !"
         ResumeLayout(False)
         PerformLayout()
     End Sub

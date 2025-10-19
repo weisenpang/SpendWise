@@ -27,11 +27,13 @@ Partial Class ExpensePage
         AddExpenseTextBox = New TextBox()
         AddExpenseLabel = New Label()
         ExpenseLabel = New Label()
+        Label1 = New Label()
+        AddExpenseDescriptionTextBox = New TextBox()
         SuspendLayout()
         ' 
         ' HomepageButton
         ' 
-        HomepageButton.Location = New Point(417, 305)
+        HomepageButton.Location = New Point(398, 276)
         HomepageButton.Name = "HomepageButton"
         HomepageButton.Size = New Size(181, 29)
         HomepageButton.TabIndex = 9
@@ -40,7 +42,7 @@ Partial Class ExpensePage
         ' 
         ' AddExpenseButton
         ' 
-        AddExpenseButton.Location = New Point(225, 305)
+        AddExpenseButton.Location = New Point(230, 276)
         AddExpenseButton.Name = "AddExpenseButton"
         AddExpenseButton.Size = New Size(111, 29)
         AddExpenseButton.TabIndex = 8
@@ -49,7 +51,7 @@ Partial Class ExpensePage
         ' 
         ' AddExpenseTextBox
         ' 
-        AddExpenseTextBox.Location = New Point(449, 223)
+        AddExpenseTextBox.Location = New Point(426, 158)
         AddExpenseTextBox.Name = "AddExpenseTextBox"
         AddExpenseTextBox.Size = New Size(125, 27)
         AddExpenseTextBox.TabIndex = 7
@@ -57,33 +59,51 @@ Partial Class ExpensePage
         ' AddExpenseLabel
         ' 
         AddExpenseLabel.AutoSize = True
-        AddExpenseLabel.Location = New Point(203, 223)
+        AddExpenseLabel.Location = New Point(218, 165)
         AddExpenseLabel.Name = "AddExpenseLabel"
-        AddExpenseLabel.Size = New Size(182, 40)
+        AddExpenseLabel.Size = New Size(193, 20)
         AddExpenseLabel.TabIndex = 6
-        AddExpenseLabel.Text = "Please Insert Your Expense" & vbCrLf & ":"
+        AddExpenseLabel.Text = "Please Insert Your Expense : " & vbCrLf
         ' 
         ' ExpenseLabel
         ' 
         ExpenseLabel.AutoSize = True
-        ExpenseLabel.Location = New Point(380, 116)
+        ExpenseLabel.Location = New Point(326, 110)
         ExpenseLabel.Name = "ExpenseLabel"
-        ExpenseLabel.Size = New Size(66, 20)
+        ExpenseLabel.Size = New Size(126, 20)
         ExpenseLabel.TabIndex = 5
-        ExpenseLabel.Text = "Expense:"
+        ExpenseLabel.Text = "Insert expense list"
+        ' 
+        ' Label1
+        ' 
+        Label1.AutoSize = True
+        Label1.Location = New Point(218, 210)
+        Label1.Name = "Label1"
+        Label1.Size = New Size(182, 20)
+        Label1.TabIndex = 10
+        Label1.Text = "Please entera description :"
+        ' 
+        ' AddExpenseDescriptionTextBox
+        ' 
+        AddExpenseDescriptionTextBox.Location = New Point(426, 207)
+        AddExpenseDescriptionTextBox.Name = "AddExpenseDescriptionTextBox"
+        AddExpenseDescriptionTextBox.Size = New Size(125, 27)
+        AddExpenseDescriptionTextBox.TabIndex = 11
         ' 
         ' ExpensePage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(800, 450)
+        Controls.Add(AddExpenseDescriptionTextBox)
+        Controls.Add(Label1)
         Controls.Add(HomepageButton)
         Controls.Add(AddExpenseButton)
         Controls.Add(AddExpenseTextBox)
         Controls.Add(AddExpenseLabel)
         Controls.Add(ExpenseLabel)
         Name = "ExpensePage"
-        Text = "ExpensePage"
+        Text = "Insert your expenses here !"
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -93,4 +113,6 @@ Partial Class ExpensePage
     Friend WithEvents AddExpenseTextBox As TextBox
     Friend WithEvents AddExpenseLabel As Label
     Friend WithEvents ExpenseLabel As Label
+    Friend WithEvents Label1 As Label
+    Friend WithEvents AddExpenseDescriptionTextBox As TextBox
 End Class
