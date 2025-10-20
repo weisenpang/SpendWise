@@ -29,6 +29,9 @@ Partial Class ExpensePage
         ExpenseLabel = New Label()
         Label1 = New Label()
         AddExpenseDescriptionTextBox = New TextBox()
+        MenuStrip1 = New MenuStrip()
+        AboutUsToolStripMenuItem = New ToolStripMenuItem()
+        MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' HomepageButton
@@ -90,11 +93,29 @@ Partial Class ExpensePage
         AddExpenseDescriptionTextBox.Size = New Size(125, 27)
         AddExpenseDescriptionTextBox.TabIndex = 11
         ' 
+        ' MenuStrip1
+        ' 
+        MenuStrip1.ImageScalingSize = New Size(20, 20)
+        MenuStrip1.Items.AddRange(New ToolStripItem() {AboutUsToolStripMenuItem})
+        MenuStrip1.Location = New Point(0, 0)
+        MenuStrip1.Name = "MenuStrip1"
+        MenuStrip1.Size = New Size(800, 28)
+        MenuStrip1.TabIndex = 13
+        MenuStrip1.Text = "MenuStrip1"
+        ' 
+        ' AboutUsToolStripMenuItem
+        ' 
+        AboutUsToolStripMenuItem.Name = "AboutUsToolStripMenuItem"
+        AboutUsToolStripMenuItem.Size = New Size(84, 24)
+        AboutUsToolStripMenuItem.Text = "About Us"
+        ' 
         ' ExpensePage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
+        Controls.Add(MenuStrip1)
         Controls.Add(AddExpenseDescriptionTextBox)
         Controls.Add(Label1)
         Controls.Add(HomepageButton)
@@ -104,6 +125,8 @@ Partial Class ExpensePage
         Controls.Add(ExpenseLabel)
         Name = "ExpensePage"
         Text = "Insert your expenses here !"
+        MenuStrip1.ResumeLayout(False)
+        MenuStrip1.PerformLayout()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -115,4 +138,6 @@ Partial Class ExpensePage
     Friend WithEvents ExpenseLabel As Label
     Friend WithEvents Label1 As Label
     Friend WithEvents AddExpenseDescriptionTextBox As TextBox
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents AboutUsToolStripMenuItem As ToolStripMenuItem
 End Class

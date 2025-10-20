@@ -29,6 +29,9 @@ Partial Class IncomePage
         HomepageButton = New Button()
         Label1 = New Label()
         AddIncomeDescriptionTextBox = New TextBox()
+        MenuStrip1 = New MenuStrip()
+        AboutUsToolStripMenuItem = New ToolStripMenuItem()
+        MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' IncomeLabel
@@ -90,11 +93,29 @@ Partial Class IncomePage
         AddIncomeDescriptionTextBox.Size = New Size(125, 27)
         AddIncomeDescriptionTextBox.TabIndex = 6
         ' 
+        ' MenuStrip1
+        ' 
+        MenuStrip1.ImageScalingSize = New Size(20, 20)
+        MenuStrip1.Items.AddRange(New ToolStripItem() {AboutUsToolStripMenuItem})
+        MenuStrip1.Location = New Point(0, 0)
+        MenuStrip1.Name = "MenuStrip1"
+        MenuStrip1.Size = New Size(800, 28)
+        MenuStrip1.TabIndex = 13
+        MenuStrip1.Text = "MenuStrip1"
+        ' 
+        ' AboutUsToolStripMenuItem
+        ' 
+        AboutUsToolStripMenuItem.Name = "AboutUsToolStripMenuItem"
+        AboutUsToolStripMenuItem.Size = New Size(84, 24)
+        AboutUsToolStripMenuItem.Text = "About Us"
+        ' 
         ' IncomePage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
+        Controls.Add(MenuStrip1)
         Controls.Add(AddIncomeDescriptionTextBox)
         Controls.Add(Label1)
         Controls.Add(HomepageButton)
@@ -104,6 +125,8 @@ Partial Class IncomePage
         Controls.Add(IncomeLabel)
         Name = "IncomePage"
         Text = "Insert your income here !"
+        MenuStrip1.ResumeLayout(False)
+        MenuStrip1.PerformLayout()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -115,4 +138,6 @@ Partial Class IncomePage
     Friend WithEvents HomepageButton As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents AddIncomeDescriptionTextBox As TextBox
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents AboutUsToolStripMenuItem As ToolStripMenuItem
 End Class

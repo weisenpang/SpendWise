@@ -141,7 +141,8 @@ Public Class HomePage
         End Using
     End Function
 
-    Private Sub LogoutToolStripMenuItem_Click(sender As Object, e As EventArgs)
 
+    Private Sub AboutUsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutUsToolStripMenuItem.Click
+        AboutBox.Show()
     End Sub
 End Class

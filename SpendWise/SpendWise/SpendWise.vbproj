@@ -3,9 +3,12 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net8.0-windows</TargetFramework>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>SpendWise.My.MyApplication</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
+    <Title>SpendWise</Title>
+    <Description>SpendWise is an expense tracker desktop application that keep track of all your balance and expense </Description>
+    <Copyright>None</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

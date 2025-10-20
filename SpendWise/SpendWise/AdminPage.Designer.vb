@@ -57,6 +57,7 @@ Partial Class AdminPage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
         Controls.Add(LogoutButton)
         Controls.Add(UserHistoryList)

@@ -51,7 +51,7 @@ Partial Class CreateAdminAccount
         Label1.Font = New Font("Segoe UI", 12F, FontStyle.Bold)
         Label1.Location = New Point(50, 30)
         Label1.Name = "Label1"
-        Label1.Size = New Size(450, 28)
+        Label1.Size = New Size(283, 28)
         Label1.TabIndex = 2
         Label1.Text = "Admin Account Setup Utility"
         ' 
@@ -59,6 +59,7 @@ Partial Class CreateAdminAccount
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(550, 200)
         Controls.Add(Label1)
         Controls.Add(TestLoginButton)

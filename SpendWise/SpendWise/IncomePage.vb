@@ -19,14 +19,14 @@ Public Class IncomePage
             AddIncomeTextBox.Focus()
             Return
         End If
-        
+
         Dim description As String = AddIncomeDescriptionTextBox.Text.Trim()
         If String.IsNullOrEmpty(description) Then
             MessageBox.Show("Please enter a description.")
             AddIncomeDescriptionTextBox.Focus()
             Return
         End If
-        
+
         Dim category As String = "Income" ' Default category
 
         Dim connectionString As String = "Server=localhost;Database=vbprojectdbfinal;Uid=root;Pwd=;"
@@ -88,4 +88,8 @@ Public Class IncomePage
             End Using
         End Using
     End Function
+
+    Private Sub AboutUsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutUsToolStripMenuItem.Click
+        AboutBox.ShowDialog()
+    End Sub
 End Class

@@ -12,7 +12,7 @@ Public Class ExpenseHistoryPage
             Me.Close()
             Return
         End If
-        
+
         LoadExpenseHistory()
     End Sub
 
@@ -33,7 +33,7 @@ Public Class ExpenseHistoryPage
                         Dim amount As Decimal = Convert.ToDecimal(reader("amount"))
                         Dim category As String = reader("category").ToString()
                         Dim transactionDate As DateTime = Convert.ToDateTime(reader("transactionDate"))
-                        
+
                         Dim item As String = $"{transactionDate:yyyy-MM-dd} | {category} | {description} | RM {amount:F2}"
                         ExpenseHistoryList.Items.Add(item)
                     End While
@@ -68,4 +68,8 @@ Public Class ExpenseHistoryPage
             End Using
         End Using
     End Function
+
+    Private Sub AboutUsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutUsToolStripMenuItem.Click
+        AboutBox.ShowDialog()
+    End Sub
 End Class

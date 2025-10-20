@@ -39,4 +39,8 @@ Public Class BalancePage
         home.Show()
         Me.Close()
     End Sub
+
+    Private Sub AboutUsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutUsToolStripMenuItem.Click
+        AboutBox.ShowDialog()
+    End Sub
 End Class

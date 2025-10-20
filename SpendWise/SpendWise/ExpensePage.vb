@@ -19,26 +19,26 @@ Public Class ExpensePage
             AddExpenseTextBox.Focus()
             Return
         End If
-        
+
         ' Check if expense exceeds current balance
         Dim currentBalance As Decimal = GetCurrentBalance()
         If amount > currentBalance Then
-            MessageBox.Show($"❌ Expense exceeds balance!" & vbCrLf & 
-                          $"Current Balance: RM {currentBalance:F2}" & vbCrLf & 
-                          $"Expense Amount: RM {amount:F2}" & vbCrLf & 
-                          $"Shortfall: RM {amount - currentBalance:F2}", 
+            MessageBox.Show($"❌ Expense exceeds balance!" & vbCrLf &
+                          $"Current Balance: RM {currentBalance:F2}" & vbCrLf &
+                          $"Expense Amount: RM {amount:F2}" & vbCrLf &
+                          $"Shortfall: RM {amount - currentBalance:F2}",
                           "Insufficient Balance", MessageBoxButtons.OK, MessageBoxIcon.Warning)
             AddExpenseTextBox.Focus()
             Return
         End If
-        
+
         Dim description As String = AddExpenseDescriptionTextBox.Text.Trim()
         If String.IsNullOrEmpty(description) Then
             MessageBox.Show("Please enter a description.")
             AddExpenseDescriptionTextBox.Focus()
             Return
         End If
-        
+
         Dim category As String = "Expense" ' Default category
 
         Dim connectionString As String = "Server=localhost;Database=vbprojectdbfinal;Uid=root;Pwd=;"
@@ -64,10 +64,10 @@ Public Class ExpensePage
                         updateCmd.ExecuteNonQuery()
                     End Using
 
-                    MessageBox.Show($"✅ Expense added successfully!" & vbCrLf & 
-                                  $"Amount: RM {amount:F2}" & vbCrLf & 
-                                  $"Description: {description}" & vbCrLf & 
-                                  $"New Balance: RM {currentBalance - amount:F2}", 
+                    MessageBox.Show($"✅ Expense added successfully!" & vbCrLf &
+                                  $"Amount: RM {amount:F2}" & vbCrLf &
+                                  $"Description: {description}" & vbCrLf &
+                                  $"New Balance: RM {currentBalance - amount:F2}",
                                   "Expense Added", MessageBoxButtons.OK, MessageBoxIcon.Information)
                     Dim home As New HomePage()
                     home.UserID = UserID
@@ -122,4 +122,8 @@ Public Class ExpensePage
             End Using
         End Using
     End Function
+
+    Private Sub AboutUsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles AboutUsToolStripMenuItem.Click
+        AboutBox.ShowDialog()
+    End Sub
 End Class

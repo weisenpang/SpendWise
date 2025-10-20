@@ -34,7 +34,8 @@ Partial Class LaunchPage
         SpendWisePictureBox.Image = My.Resources.Resources.SpendWisePictureBox
         SpendWisePictureBox.Location = New Point(265, 71)
         SpendWisePictureBox.Name = "SpendWisePictureBox"
-        SpendWisePictureBox.Size = New Size(250, 64)
+        SpendWisePictureBox.Size = New Size(247, 60)
+        SpendWisePictureBox.SizeMode = PictureBoxSizeMode.AutoSize
         SpendWisePictureBox.TabIndex = 0
         SpendWisePictureBox.TabStop = False
         ' 
@@ -43,7 +44,8 @@ Partial Class LaunchPage
         SpendWiseLogoPictureBox.Image = My.Resources.Resources.SpendWiseLogoPictureBox
         SpendWiseLogoPictureBox.Location = New Point(353, 176)
         SpendWiseLogoPictureBox.Name = "SpendWiseLogoPictureBox"
-        SpendWiseLogoPictureBox.Size = New Size(84, 86)
+        SpendWiseLogoPictureBox.Size = New Size(82, 82)
+        SpendWiseLogoPictureBox.SizeMode = PictureBoxSizeMode.AutoSize
         SpendWiseLogoPictureBox.TabIndex = 1
         SpendWiseLogoPictureBox.TabStop = False
         ' 
@@ -60,6 +62,7 @@ Partial Class LaunchPage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
         Controls.Add(StartProgramButton)
         Controls.Add(SpendWiseLogoPictureBox)
@@ -69,6 +72,7 @@ Partial Class LaunchPage
         CType(SpendWisePictureBox, ComponentModel.ISupportInitialize).EndInit()
         CType(SpendWiseLogoPictureBox, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
+        PerformLayout()
     End Sub
 
     Friend WithEvents SpendWisePictureBox As PictureBox

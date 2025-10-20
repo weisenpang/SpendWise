@@ -25,12 +25,15 @@ Partial Class ExpenseHistoryPage
         ExpenseHistoryLabel = New Label()
         ExpenseHistoryList = New ListBox()
         HomepageButton = New Button()
+        MenuStrip1 = New MenuStrip()
+        AboutUsToolStripMenuItem = New ToolStripMenuItem()
+        MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' ExpenseHistoryLabel
         ' 
         ExpenseHistoryLabel.AutoSize = True
-        ExpenseHistoryLabel.Location = New Point(33, 21)
+        ExpenseHistoryLabel.Location = New Point(33, 28)
         ExpenseHistoryLabel.Name = "ExpenseHistoryLabel"
         ExpenseHistoryLabel.Size = New Size(114, 20)
         ExpenseHistoryLabel.TabIndex = 0
@@ -53,16 +56,36 @@ Partial Class ExpenseHistoryPage
         HomepageButton.Text = "Back To Homepage"
         HomepageButton.UseVisualStyleBackColor = True
         ' 
+        ' MenuStrip1
+        ' 
+        MenuStrip1.ImageScalingSize = New Size(20, 20)
+        MenuStrip1.Items.AddRange(New ToolStripItem() {AboutUsToolStripMenuItem})
+        MenuStrip1.Location = New Point(0, 0)
+        MenuStrip1.Name = "MenuStrip1"
+        MenuStrip1.Size = New Size(800, 28)
+        MenuStrip1.TabIndex = 13
+        MenuStrip1.Text = "MenuStrip1"
+        ' 
+        ' AboutUsToolStripMenuItem
+        ' 
+        AboutUsToolStripMenuItem.Name = "AboutUsToolStripMenuItem"
+        AboutUsToolStripMenuItem.Size = New Size(84, 24)
+        AboutUsToolStripMenuItem.Text = "About Us"
+        ' 
         ' ExpenseHistoryPage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
+        Controls.Add(MenuStrip1)
         Controls.Add(HomepageButton)
         Controls.Add(ExpenseHistoryList)
         Controls.Add(ExpenseHistoryLabel)
         Name = "ExpenseHistoryPage"
         Text = "View your expenses here !"
+        MenuStrip1.ResumeLayout(False)
+        MenuStrip1.PerformLayout()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -70,4 +93,6 @@ Partial Class ExpenseHistoryPage
     Friend WithEvents ExpenseHistoryLabel As Label
     Friend WithEvents ExpenseHistoryList As ListBox
     Friend WithEvents HomepageButton As Button
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents AboutUsToolStripMenuItem As ToolStripMenuItem
 End Class

@@ -22,7 +22,6 @@ Partial Class HomePage
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        components = New ComponentModel.Container()
         BalanceLabel = New Label()
         TotalIncomeLabel = New Label()
         TotalExpenseLabel = New Label()
@@ -31,8 +30,10 @@ Partial Class HomePage
         InsertBalanceButton = New Button()
         AddExpenseButton = New Button()
         ExpenseHistoryButton = New Button()
-        ContextMenuStrip1 = New ContextMenuStrip(components)
         logOutButton = New Button()
+        MenuStrip1 = New MenuStrip()
+        AboutUsToolStripMenuItem = New ToolStripMenuItem()
+        MenuStrip1.SuspendLayout()
         SuspendLayout()
         ' 
         ' BalanceLabel
@@ -108,12 +109,6 @@ Partial Class HomePage
         ExpenseHistoryButton.Text = "Expense History"
         ExpenseHistoryButton.UseVisualStyleBackColor = True
         ' 
-        ' ContextMenuStrip1
-        ' 
-        ContextMenuStrip1.ImageScalingSize = New Size(20, 20)
-        ContextMenuStrip1.Name = "ContextMenuStrip1"
-        ContextMenuStrip1.Size = New Size(61, 4)
-        ' 
         ' logOutButton
         ' 
         logOutButton.Location = New Point(364, 409)
@@ -123,11 +118,29 @@ Partial Class HomePage
         logOutButton.Text = "Log Out"
         logOutButton.UseVisualStyleBackColor = True
         ' 
+        ' MenuStrip1
+        ' 
+        MenuStrip1.ImageScalingSize = New Size(20, 20)
+        MenuStrip1.Items.AddRange(New ToolStripItem() {AboutUsToolStripMenuItem})
+        MenuStrip1.Location = New Point(0, 0)
+        MenuStrip1.Name = "MenuStrip1"
+        MenuStrip1.Size = New Size(800, 28)
+        MenuStrip1.TabIndex = 12
+        MenuStrip1.Text = "MenuStrip1"
+        ' 
+        ' AboutUsToolStripMenuItem
+        ' 
+        AboutUsToolStripMenuItem.Name = "AboutUsToolStripMenuItem"
+        AboutUsToolStripMenuItem.Size = New Size(84, 24)
+        AboutUsToolStripMenuItem.Text = "About Us"
+        ' 
         ' HomePage
         ' 
         AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
+        BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
+        Controls.Add(MenuStrip1)
         Controls.Add(logOutButton)
         Controls.Add(ExpenseHistoryButton)
         Controls.Add(AddExpenseButton)
@@ -137,8 +150,11 @@ Partial Class HomePage
         Controls.Add(TotalExpenseLabel)
         Controls.Add(TotalIncomeLabel)
         Controls.Add(BalanceLabel)
+        MainMenuStrip = MenuStrip1
         Name = "HomePage"
         Text = "HomePage"
+        MenuStrip1.ResumeLayout(False)
+        MenuStrip1.PerformLayout()
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -151,6 +167,7 @@ Partial Class HomePage
     Friend WithEvents InsertBalanceButton As Button
     Friend WithEvents AddExpenseButton As Button
     Friend WithEvents ExpenseHistoryButton As Button
-    Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
     Friend WithEvents logOutButton As Button
+    Friend WithEvents MenuStrip1 As MenuStrip
+    Friend WithEvents AboutUsToolStripMenuItem As ToolStripMenuItem
 End Class
