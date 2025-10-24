@@ -25,6 +25,8 @@ Partial Class ExpenseHistoryPage
         ExpenseHistoryLabel = New Label()
         ExpenseHistoryList = New ListBox()
         HomepageButton = New Button()
+        EditButton = New Button()
+        DeleteButton = New Button()
         MenuStrip1 = New MenuStrip()
         AboutUsToolStripMenuItem = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
@@ -56,6 +58,24 @@ Partial Class ExpenseHistoryPage
         HomepageButton.Text = "Back To Homepage"
         HomepageButton.UseVisualStyleBackColor = True
         ' 
+        ' EditButton
+        ' 
+        EditButton.Location = New Point(33, 400)
+        EditButton.Name = "EditButton"
+        EditButton.Size = New Size(100, 29)
+        EditButton.TabIndex = 3
+        EditButton.Text = "Edit Selected"
+        EditButton.UseVisualStyleBackColor = True
+        ' 
+        ' DeleteButton
+        ' 
+        DeleteButton.Location = New Point(150, 400)
+        DeleteButton.Name = "DeleteButton"
+        DeleteButton.Size = New Size(100, 29)
+        DeleteButton.TabIndex = 4
+        DeleteButton.Text = "Delete Selected"
+        DeleteButton.UseVisualStyleBackColor = True
+        ' 
         ' MenuStrip1
         ' 
         MenuStrip1.ImageScalingSize = New Size(20, 20)
@@ -79,6 +99,8 @@ Partial Class ExpenseHistoryPage
         BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
         Controls.Add(MenuStrip1)
+        Controls.Add(DeleteButton)
+        Controls.Add(EditButton)
         Controls.Add(HomepageButton)
         Controls.Add(ExpenseHistoryList)
         Controls.Add(ExpenseHistoryLabel)
@@ -93,6 +115,8 @@ Partial Class ExpenseHistoryPage
     Friend WithEvents ExpenseHistoryLabel As Label
     Friend WithEvents ExpenseHistoryList As ListBox
     Friend WithEvents HomepageButton As Button
+    Friend WithEvents EditButton As Button
+    Friend WithEvents DeleteButton As Button
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents AboutUsToolStripMenuItem As ToolStripMenuItem
 End Class

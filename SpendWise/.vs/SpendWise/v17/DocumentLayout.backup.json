@@ -1,85 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\",
+  "WorkspaceRootPath": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\launchpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\launchpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\incomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\incomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\incomepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\launchpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\launchpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\createadminaccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\createadminaccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\createadminaccount.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\adminpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\adminpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\adminpage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\aboutbox.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\splashscreen.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\incomehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\expensehistorypage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\databasehelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\balancepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\homepage.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\user\\onedrive\\desktop\\master project\\spendwise\\spendwise\\spendwise\\aboutbox.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|c:\\users\\kai\\desktop\\vb  project\\spendwise\\spendwise\\spendwise\\aboutbox.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{E5A7F9F7-2B1C-4A71-89C1-C1B0B7A270AD}|SpendWise\\SpendWise.vbproj|solutionrelative:spendwise\\aboutbox.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
@@ -94,6 +94,14 @@
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -102,24 +110,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IncomeHistoryPage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
-              "RelativeDocumentMoniker": "SpendWise\\IncomeHistoryPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\IncomeHistoryPage.vb [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T11:46:27.099Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ExpenseHistoryPage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
               "RelativeDocumentMoniker": "SpendWise\\ExpenseHistoryPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\ExpenseHistoryPage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\ExpenseHistoryPage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T10:42:37.443Z",
               "EditorCaption": " [Design]"
@@ -128,46 +124,58 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "HomePage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\HomePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\HomePage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\HomePage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T06:51:54.285Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "IncomePage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\IncomePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\IncomePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomePage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\IncomePage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\IncomePage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\IncomePage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T10:44:07.288Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LaunchPage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\LaunchPage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\LaunchPage.vb",
               "RelativeDocumentMoniker": "SpendWise\\LaunchPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\LaunchPage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\LaunchPage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\LaunchPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\LaunchPage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T11:44:13.833Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncomeHistoryPage.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
+              "RelativeDocumentMoniker": "SpendWise\\IncomeHistoryPage.vb",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\IncomeHistoryPage.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-20T11:46:27.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "CreateAdminAccount.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\CreateAdminAccount.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\CreateAdminAccount.vb",
               "RelativeDocumentMoniker": "SpendWise\\CreateAdminAccount.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\CreateAdminAccount.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\CreateAdminAccount.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\CreateAdminAccount.vb [Design]",
+              "RelativeToolTip": "SpendWise\\CreateAdminAccount.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T11:45:56.782Z",
               "EditorCaption": " [Design]"
@@ -176,10 +184,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "AdminPage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AdminPage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AdminPage.vb",
               "RelativeDocumentMoniker": "SpendWise\\AdminPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AdminPage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\AdminPage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AdminPage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\AdminPage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T11:45:32.292Z",
               "EditorCaption": " [Design]"
@@ -188,10 +196,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ExpensePage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\ExpensePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\ExpensePage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\ExpensePage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T10:43:14.711Z",
               "EditorCaption": " [Design]"
@@ -200,49 +208,46 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "IncomeHistoryPage.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
               "RelativeDocumentMoniker": "SpendWise\\IncomeHistoryPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb*",
-              "RelativeToolTip": "SpendWise\\IncomeHistoryPage.vb*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\IncomeHistoryPage.vb",
+              "RelativeToolTip": "SpendWise\\IncomeHistoryPage.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T10:43:52.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T10:43:52.572Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AboutBox.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb",
               "RelativeDocumentMoniker": "SpendWise\\AboutBox.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb*",
-              "RelativeToolTip": "SpendWise\\AboutBox.vb*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb",
+              "RelativeToolTip": "SpendWise\\AboutBox.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T11:14:57.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T11:14:57.925Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ExpensePage.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\ExpensePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb*",
-              "RelativeToolTip": "SpendWise\\ExpensePage.vb*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpensePage.vb",
+              "RelativeToolTip": "SpendWise\\ExpensePage.vb",
               "ViewState": "AgIAAG4AAAAAAAAAAAAtwIAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T10:43:20.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T10:43:20.933Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BalancePage.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\BalancePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\BalancePage.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb [Design]",
+              "RelativeToolTip": "SpendWise\\BalancePage.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T10:41:41.584Z",
               "EditorCaption": " [Design]"
@@ -251,9 +256,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SplashScreen.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb",
               "RelativeDocumentMoniker": "SpendWise\\SplashScreen.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb [Design]",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb [Design]",
               "RelativeToolTip": "SpendWise\\SplashScreen.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T11:19:01.479Z",
@@ -263,10 +268,10 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AboutBox.vb [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb",
               "RelativeDocumentMoniker": "SpendWise\\AboutBox.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb [Design]*",
-              "RelativeToolTip": "SpendWise\\AboutBox.vb [Design]*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AboutBox.vb [Design]",
+              "RelativeToolTip": "SpendWise\\AboutBox.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-10-20T06:59:08.211Z",
               "EditorCaption": " [Design]"
@@ -275,35 +280,33 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "SplashScreen.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb",
               "RelativeDocumentMoniker": "SpendWise\\SplashScreen.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\SplashScreen.vb",
               "RelativeToolTip": "SpendWise\\SplashScreen.vb",
               "ViewState": "AgIAABsAAAAAAAAAAAAlwCgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T11:27:35.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T11:27:35.564Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ExpenseHistoryPage.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
               "RelativeDocumentMoniker": "SpendWise\\ExpenseHistoryPage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb*",
-              "RelativeToolTip": "SpendWise\\ExpenseHistoryPage.vb*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\ExpenseHistoryPage.vb",
+              "RelativeToolTip": "SpendWise\\ExpenseHistoryPage.vb",
               "ViewState": "AgIAADsAAAAAAAAAAAAtwEgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T10:42:58.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T10:42:58.357Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "DatabaseHelper.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\DatabaseHelper.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\DatabaseHelper.vb",
               "RelativeDocumentMoniker": "SpendWise\\DatabaseHelper.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\DatabaseHelper.vb",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\DatabaseHelper.vb",
               "RelativeToolTip": "SpendWise\\DatabaseHelper.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
@@ -313,35 +316,33 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "BalancePage.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\BalancePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb*",
-              "RelativeToolTip": "SpendWise\\BalancePage.vb*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\BalancePage.vb",
+              "RelativeToolTip": "SpendWise\\BalancePage.vb",
               "ViewState": "AgIAABsAAAAAAAAAAAAtwCEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T10:41:47.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T10:41:47.643Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "AboutBox.Designer.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AboutBox.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AboutBox.Designer.vb",
               "RelativeDocumentMoniker": "SpendWise\\AboutBox.Designer.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\AboutBox.Designer.vb*",
-              "RelativeToolTip": "SpendWise\\AboutBox.Designer.vb*",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\AboutBox.Designer.vb",
+              "RelativeToolTip": "SpendWise\\AboutBox.Designer.vb",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2025-10-20T07:01:50.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T07:01:50.083Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "HomePage.vb",
-              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
+              "DocumentMoniker": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
               "RelativeDocumentMoniker": "SpendWise\\HomePage.vb",
-              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\MASTER PROJECT\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
+              "ToolTip": "C:\\Users\\Kai\\Desktop\\VB  Project\\SpendWise\\SpendWise\\SpendWise\\HomePage.vb",
               "RelativeToolTip": "SpendWise\\HomePage.vb",
               "ViewState": "AgIAAIIAAAAAAAAAAAApwJEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",

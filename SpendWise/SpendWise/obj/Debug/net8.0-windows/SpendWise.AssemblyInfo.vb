@@ -19,7 +19,7 @@ Imports System.Reflection
  Assembly: System.Reflection.AssemblyDescriptionAttribute("SpendWise is an expense tracker desktop application that keep track of all your b"& _ 
     "alance and expense "),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ff5a2556a28797fea4694676ff4dc7dee6c4c5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdecbc5011c287f58d1f725cfc100bfa9876c374"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("SpendWise"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("SpendWise"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

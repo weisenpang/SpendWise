@@ -93,3 +93,6 @@ C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\
 C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.AboutBox.resources
 C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.CreateAdminAccount.resources
 C:\Users\User\OneDrive\Desktop\MASTER PROJECT\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.SplashScreen.resources
+C:\Users\Kai\Desktop\VB  Project\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.AboutBox.resources
+C:\Users\Kai\Desktop\VB  Project\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.CreateAdminAccount.resources
+C:\Users\Kai\Desktop\VB  Project\SpendWise\SpendWise\SpendWise\obj\Debug\net8.0-windows\SpendWise.SplashScreen.resources

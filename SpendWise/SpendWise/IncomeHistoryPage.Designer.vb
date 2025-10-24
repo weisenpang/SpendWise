@@ -25,6 +25,8 @@ Partial Class IncomeHistoryPage
         HomepageButton = New Button()
         IncomeHistoryList = New ListBox()
         IncomeHistoryLabel = New Label()
+        EditButton = New Button()
+        DeleteButton = New Button()
         MenuStrip1 = New MenuStrip()
         AboutUsToolStripMenuItem = New ToolStripMenuItem()
         MenuStrip1.SuspendLayout()
@@ -56,6 +58,24 @@ Partial Class IncomeHistoryPage
         IncomeHistoryLabel.TabIndex = 3
         IncomeHistoryLabel.Text = "Income History"
         ' 
+        ' EditButton
+        ' 
+        EditButton.Location = New Point(31, 400)
+        EditButton.Name = "EditButton"
+        EditButton.Size = New Size(100, 29)
+        EditButton.TabIndex = 6
+        EditButton.Text = "Edit Selected"
+        EditButton.UseVisualStyleBackColor = True
+        ' 
+        ' DeleteButton
+        ' 
+        DeleteButton.Location = New Point(148, 400)
+        DeleteButton.Name = "DeleteButton"
+        DeleteButton.Size = New Size(100, 29)
+        DeleteButton.TabIndex = 7
+        DeleteButton.Text = "Delete Selected"
+        DeleteButton.UseVisualStyleBackColor = True
+        ' 
         ' MenuStrip1
         ' 
         MenuStrip1.ImageScalingSize = New Size(20, 20)
@@ -79,6 +99,8 @@ Partial Class IncomeHistoryPage
         BackColor = SystemColors.ButtonHighlight
         ClientSize = New Size(800, 450)
         Controls.Add(MenuStrip1)
+        Controls.Add(DeleteButton)
+        Controls.Add(EditButton)
         Controls.Add(HomepageButton)
         Controls.Add(IncomeHistoryList)
         Controls.Add(IncomeHistoryLabel)
@@ -93,6 +115,8 @@ Partial Class IncomeHistoryPage
     Friend WithEvents HomepageButton As Button
     Friend WithEvents IncomeHistoryList As ListBox
     Friend WithEvents IncomeHistoryLabel As Label
+    Friend WithEvents EditButton As Button
+    Friend WithEvents DeleteButton As Button
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents AboutUsToolStripMenuItem As ToolStripMenuItem
 End Class
